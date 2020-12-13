@@ -1,15 +1,30 @@
 [
     {
-        "title": "Dummy Blog",
-        "date":"29-nov-2020",
-        "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-        "liveLink":"http://instagram.com.why_adarsh",
-        "codeLink":"https://github.com/whoadarshpandya"
+        "title": "Ferbs Translator ",
+        "date":"November 2020",
+        "content":"Die hard fan og Phineas and ferbs show? yeah , me too. but what if we can translate our language to ferbs language? sounds cool right? then do check it out :)",
+        "liveLink":"https://ferbstranslator.netlify.app/",
+        "codeLink":"https://github.com/WhoAdarshPandya/ferbTranslator"
     },
     {
-        "title": "Dummy project 2 ",
-        "date":"19-nov-2020",
-        "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-        "liveLink":"http://instagram.com.why_adarsh",
-        "codeLink":"https://github.com/whoadarshpandya"   }
+        "title": "Minionese ",
+        "date":"November 2020",
+        "content":"we have something interesting for you , it's minionese app , which converts english language to minion's language.seems interesting right? then don't wait try it out :)",
+        "liveLink":"https://funwithminion.netlify.app/",
+        "codeLink":"https://github.com/WhoAdarshPandya/minionese"
+    },
+    {
+        "title": "Who is Mr.Robot? ",
+        "date":"November 2020",
+        "content":"tell me one coder who don't like this show , i mean this show has good script , well prepared actors !!! let's check how well do you know mr.robot?",
+        "liveLink":"https://repl.it/@WhoAdarshPandya/WhoIsMrRobot?embed=1&output=1",
+        "codeLink":"https://github.com/WhoAdarshPandya/WhoIsMrRobot"
+    },
+    {
+        "title": "How well do you know me ? ",
+        "date":"November 2020",
+        "content":"let's check how well do you know me ? i don't have to say it , the points says it all :) ready for quiz ? check it out",
+        "liveLink":"https://repl.it/@WhoAdarshPandya/QuizzingAppCli?embed=1&output=1",
+        "codeLink":"https://github.com/WhoAdarshPandya/QuizzingAppCli"   
+    }
 ]
