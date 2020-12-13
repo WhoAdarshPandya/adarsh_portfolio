@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             <h1>${blog.title}</h1>
         <small class="blog-date">${blog.date}</small>
         <p class="blog-content">${blog.content}</p>
-        <a class="link link-primary" href="https://repl.it/@tanaypratap/quiz-on-marvel?embed=true">Read More</a>
+        <a class="link link-primary" target="_blank" href="${blog.link}">Read More</a>
         </article>  
       </li>
       `;

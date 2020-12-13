@@ -1,12 +1,15 @@
 [
     {
-        "title": "Dummy Blog",
-        "date":"29-nov-2020",
-        "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries."
+        "title": "Understanding REST",
+        "date":"Dec 14,2020",
+        "content":"So far we've learned that REST is not a technology or a framework but it is a convention | set of principles used by web developers to make api more meaningful. we've also seen that REST works as an intermediate between client and server and supports 5 type of requests (GET,POST,PUT,PATCH,DELETE)",
+        "link":"https://adarshpandya.hashnode.dev/understanding-rest"
     },
     {
         "title": "Dummy Blog 2",
-        "date":"19-nov-2020",
-        "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries."
+        "date":"Dec 21,2020",
+        "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+        "link":"https://adarshpandya.hashnode.dev/"
+
     }
 ]
