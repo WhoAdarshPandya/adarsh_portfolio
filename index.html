@@ -5,12 +5,84 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adarsh's Site</title>
+    <!-- load font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+        crossorigin="anonymous" />
+    <!-- font awesome script -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js"
+        integrity="sha512-F5QTlBqZlvuBEs9LQPqc1iZv2UMxcVXezbHzomzS6Df4MZMClge/8+gXrKw2fl5ysdk4rWjR0vKS7NNkfymaBQ=="
+        crossorigin="anonymous"></script>
+    <!-- add css -->
     <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
-    <h1>hello world</h1>
-    <script src="./main.js"></script>
+    <nav class="navigation container">
+        <div class="nav-brand"><a href="/">Adarsh Pandya </a></div>
+        <ul class="list-non-bullet nav-pills">
+            <li class="list-item-inline">
+                <a class="link link-active" href="#home">Home</a>
+            </li>
+            <li class="list-item-inline">
+                <a class="link" href="/projects.html">Projects</a>
+            </li>
+            <li class="list-item-inline">
+                <a class="link" href="/blogs.html">Blogs</a>
+            </li>
+        </ul>
+    </nav>
+    <header class="hero">
+        <img class="hero-img" src="./assets/blogging.png" />
+        <h1 class="hero-heading">Hey i'm Adarsh and i'm<span class="heading-inverted"> full stack developer</span></h1>
+    </header>
+    <section class="section ow" id="home">
+        <div class="container container-center">
+            <h1>Technologies ,I work with </h1>
+            <p>I'm familiar with HTML5, CSS3, Git, JavaScript, NodeJS, ReactJS, and Web Hosting</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container container-center">
+            <h1>projects</h1>
+            <p>I like to showcase my work and thus, you can see my projects hosted online</p>
+            <a class="link link-primary" href="/projects.html">See Projects</a>
+        </div>
+    </section>
+
+    <section class="section ow">
+        <div class="container container-center">
+            <h1>blogs</h1>
+            <p>I am also working on some technical and non techincal blogs. I like to document my journey of learning.
+            </p>
+            <a class="link link-secondary" href="/blogs.html">Read Blogs</a>
+        </div>
+    </section>
+    <footer class="footer">
+        <ul class="list-non-bullet">
+            <li class="list-item-inline">
+                <a class="link" href="https://github.com/whoadarshpandya">
+                    <i class="fab fa-github fa-2x"></i>
+                </a>
+            </li>
+            <li class="list-item-inline">
+                <a class="link" href="https://twitter.com/codarsh">
+                    <i class="fab fa-twitter fa-2x"></i>
+                </a>
+            </li>
+            <li class="list-item-inline">
+                <a class="link" href="https://in.linkedin.com/in/adarsh-pandya-73963a15b">
+                    <i class="fab fa-linkedin fa-2x"></i>
+                </a>
+            </li>
+            <li class="list-item-inline">
+                <a class="link" href="https://instagram.com/why_adarsh">
+                    <i class="fab fa-instagram fa-2x"></i>
+                </a>
+            </li>
+        </ul>
+    </footer>
 </body>
 
 </html>
