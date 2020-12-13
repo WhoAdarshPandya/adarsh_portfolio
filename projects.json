@@ -1,5 +1,12 @@
 [
     {
+        "title": "Frienzy - friend recommendation",
+        "date":"December 2020",
+        "content":"Frienzy makes it easy for extroverts (which most of programmers are) so easy and relaxing, gone in party ? tried to make new friends ? had an awkward conversation ? good you remembered . from now on use Frienzy",
+        "liveLink":"https://findnewfriends.netlify.app/",
+        "codeLink":"https://github.com/WhoAdarshPandya/Friends-Search-app"
+    },
+    {
         "title": "Emoji Interpreter",
         "date":"December 2020",
         "content":"do you ever get confused thinking what is the meaning of the emoji? Well then we've good news for you ! presenting emoji meaning search for your daily usage. feel free to use it :)",
