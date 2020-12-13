@@ -176,3 +176,16 @@ nav .link:hover {
 .showcase-blog {
     padding-bottom: 6rem;
 }
+
+.tech-icon {
+    width: 90px;
+    object-fit: center !important;
+}
+
+.tech-holder {
+    width: 70%;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
