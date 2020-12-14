@@ -6,10 +6,9 @@
         "link":"https://adarshpandya.hashnode.dev/understanding-rest"
     },
     {
-        "title": "Dummy Blog 2",
-        "date":"Dec 21,2020",
-        "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
-        "link":"https://adarshpandya.hashnode.dev/"
-
+        "title": "Writing Your First REST API",
+        "date":"Dec 14,2020",
+        "content":"so this is the second part to my previous post 'Understanding REST api',in this part we'll make a small REST - API in node JS. so without further ado let's start making your first ever API",
+        "link":"https://adarshpandya.hashnode.dev/writing-your-first-rest-api"
     }
 ]
