@@ -1,44 +1,37 @@
 [
     {
-        "title": "Frienzy - friend recommendation",
+        "title": "Parific - A Privacy centric social media",
         "date":"December 2020",
-        "content":"Frienzy makes it easy for extroverts (which most of programmers are) so easy and relaxing, gone in party ? tried to make new friends ? had an awkward conversation ? good you remembered . from now on use Frienzy",
-        "liveLink":"https://findnewfriends.netlify.app/",
-        "codeLink":"https://github.com/WhoAdarshPandya/Friends-Search-app"
+        "content":"a fully featured MERN stack app with frontend and backend written in modern JS [SPA], supports chats, group chats, anonymous chats, helpful in finding friends. 100% realtime application wihtout even a single reload and backed by node JS express REST API",
+        "liveLink":"#",
+        "codeLink":"#"
     },
     {
-        "title": "Emoji Interpreter",
-        "date":"December 2020",
-        "content":"do you ever get confused thinking what is the meaning of the emoji? Well then we've good news for you ! presenting emoji meaning search for your daily usage. feel free to use it :)",
-        "liveLink":"https://guesstheemoji.netlify.app/",
-        "codeLink":"https://github.com/WhoAdarshPandya/emoji-interpreter"
+        "title": "Stoned",
+        "date":"January 2021",
+        "content":"a React JS based modern open source library with so many of built in React components stitched with love & typescript. Stoned makes it easier to integrate a component library in your upcoming react projects. stoned is Fast | Minimalistic | Stable",
+        "liveLink":"https://www.npmjs.com/package/stoned",
+        "codeLink":"https://github.com/WhoAdarshPandya/stoned"
     },
     {
-        "title": "Ferbs Translator ",
+        "title": "React Todos ",
         "date":"November 2020",
-        "content":"Die hard fan og Phineas and ferbs show? yeah , me too. but what if we can translate our language to ferbs language? sounds cool right? then do check it out :)",
-        "liveLink":"https://ferbstranslator.netlify.app/",
-        "codeLink":"https://github.com/WhoAdarshPandya/ferbTranslator"
+        "content":"A Generalized React Js repo which implements 4 state management with 4 different todo apps to show the use case of state management and are deployed on various platforms like netlify,firebase,heroku,gh-pages",
+        "liveLink":"https://github.com/WhoAdarshPandya/REACT_TODOS",
+        "codeLink":"https://github.com/WhoAdarshPandya/REACT_TODOS"
     },
     {
-        "title": "Minionese ",
+        "title": "REST with FAST Api ",
         "date":"November 2020",
-        "content":"we have something interesting for you , it's minionese app , which converts english language to minion's language.seems interesting right? then don't wait try it out :)",
-        "liveLink":"https://funwithminion.netlify.app/",
-        "codeLink":"https://github.com/WhoAdarshPandya/minionese"
+        "content":"A Highly Fast and reliable rest api made with python's latest 'FAST Api' and mongo db (NO-SQL) database, which secures and covers many api end points",
+        "liveLink":"https://protected-eyrie-60708.herokuapp.com/",
+        "codeLink":"https://github.com/WhoAdarshPandya/fastapi"
     },
     {
-        "title": "Who is Mr.Robot? ",
+        "title": "FAST Api & Socket.io ",
         "date":"November 2020",
-        "content":"tell me one coder who don't like this show , i mean this show has good script , well prepared actors !!! let's check how well do you know mr.robot?",
+        "content":"A Realtime chat app with React JS in frontend and Python's Fast Api in backend with materialize look and feel",
         "liveLink":"https://repl.it/@WhoAdarshPandya/WhoIsMrRobot?embed=1&output=1",
-        "codeLink":"https://github.com/WhoAdarshPandya/WhoIsMrRobot"
-    },
-    {
-        "title": "How well do you know me ? ",
-        "date":"November 2020",
-        "content":"let's check how well do you know me ? i don't have to say it , the points says it all :) ready for quiz ? check it out",
-        "liveLink":"https://repl.it/@WhoAdarshPandya/QuizzingAppCli?embed=1&output=1",
-        "codeLink":"https://github.com/WhoAdarshPandya/QuizzingAppCli"   
+        "codeLink":"https://vigilant-nobel-366eeb.netlify.app/"
     }
 ]
